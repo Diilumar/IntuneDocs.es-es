@@ -28,7 +28,7 @@ ms.locfileid: "55835035"
 [!INCLUDE [both-portals](./includes/note-for-both-portals.md)]
 
 Intune es un servicio de administración de movilidad empresarial (EMM) basado en nube que ayuda a los empleados a ser productivos mientras mantiene protegidos los datos corporativos. Al igual que otros servicios de Azure, Microsoft Intune está disponible en Azure Portal. Intune permite:
-* Administrar los dispositivos móviles y los equipos que los empleados usan para tener acceso a datos de la empresa.
+* Administrar los dispositivos móviles y los equipos que los empleados usan para tener acceso a los datos de la empresa.
 * Administrar las aplicaciones móviles que usa la plantilla.
 * Proteger la información de la empresa al ayudar a controlar la manera en que los empleados tienen acceso a ella y la comparten.
 * Garantizar que los dispositivos y las aplicaciones sean compatibles con los requisitos de seguridad de la empresa.
